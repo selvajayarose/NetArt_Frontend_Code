@@ -1,9 +1,9 @@
-This assignment project was created by React app 
+The assignment project was created by React app 
 
 ## Functionalities
 
-Using CSS Flex.
-Responsive web design for all screens
+ - Using CSS Flex.
+ - Responsive web design for all screens
 
 ## Setup instructions
 to install dependencies, npm install
